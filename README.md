@@ -1,6 +1,6 @@
 # Hello
 
-![Header](https://example.com/header_image.png)
+![Header](https://github.com/fksontini/fksontini/blob/main/github-header-image.png)
 
 ## Introduction
 

@@ -1,14 +1,13 @@
-# Hello
 
 ![Header](https://github.com/fksontini/fksontini/blob/main/github-header-image.png)
 
 ## Introduction
 
-Hello! I'm [Your Name], a seasoned Senior Software Engineer Specialist with expertise in Microsoft 365, Power Platform, and Project Management. I have a passion for creating innovative software solutions and leveraging the power of technology to drive business success. This Readme profile aims to provide you with a comprehensive overview of my skills, experience, and accomplishments.
+Hello! I'm [Firas], a seasoned Senior Software Engineer Specialist with expertise in Microsoft 365, Power Platform, and Project Management. I have a passion for creating innovative software solutions and leveraging the power of technology to drive business success. This Readme profile aims to provide you with a comprehensive overview of my skills, experience, and accomplishments.
 
 ## Skills
 
-- ![Microsoft 365](https://example.com/microsoft_365_icon.png) **Microsoft 365:** Proficient in developing applications and solutions on the Microsoft 365 platform, including SharePoint, Teams, Exchange, and Office 365 APIs.
+- ![Microsoft 365](https://fr.wikipedia.org/wiki/Microsoft_365#/media/Fichier:Microsoft_365_(2022).svg) **Microsoft 365:** Proficient in developing applications and solutions on the Microsoft 365 platform, including SharePoint, Teams, Exchange, and Office 365 APIs.
 - ![Power Platform](https://example.com/power_platform_icon.png) **Power Platform:** Extensive experience in building Power Apps, Power Automate (formerly Flow), and Power BI solutions to streamline processes and improve efficiency.
 - ![Project Management](https://example.com/project_management_icon.png) **Project Management:** Strong project management skills, including Agile methodologies (Scrum, Kanban), project planning, resource allocation, and stakeholder management.
 - ![Software Development](https://example.com/software_development_icon.png) **Software Development:** Expertise in full-stack development using languages such as C#, .NET, JavaScript, TypeScript, and frameworks like ASP.NET MVC and React.

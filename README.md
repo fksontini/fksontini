@@ -7,7 +7,7 @@ Hello! I'm Firas, a  Senior Software Engineer Specialist with expertise in Micro
 
 ## Skills
 
-- ![Microsoft 365](https://example.com/cloud_technologies_icon.png)**Microsoft 365:** Proficient in developing applications and solutions on the Microsoft 365 platform, including SharePoint, Teams, Exchange, and Office 365 APIs.
+- ![Microsoft 365]([[https://example.com/cloud_technologies_icon.png](https://th.bing.com/th?id=OIP.WdnhsdOrU5Apm2Dny9SbVAHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2)])**Microsoft 365:** Proficient in developing applications and solutions on the Microsoft 365 platform, including SharePoint, Teams, Exchange, and Office 365 APIs.
  **Power Platform:** Extensive experience in building Power Apps, Power Automate (formerly Flow), and Power BI solutions to streamline processes and improve efficiency.
 - ![Project Management](https://example.com/cloud_technologies_icon.png)**Project Management:** Strong project management skills, including Agile methodologies (Scrum, Kanban), project planning, resource allocation, and stakeholder management.
 - ![Software Development:](https://example.com/cloud_technologies_icon.png)**Software Development:** Expertise in full-stack development using languages such as C#, .NET, JavaScript, TypeScript, and frameworks like ASP.NET MVC and React.

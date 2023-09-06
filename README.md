@@ -7,10 +7,10 @@ Hello! I'm Firas, a  Senior Software Engineer Specialist with expertise in Micro
 
 ## Skills
 
-- ![Microsoft 365](https://th.bing.com/th/id/R.459c35536fa07bdb9574c91444609bbe?rik=yxZDlkNURg%2ftXQ&riu=http%3a%2f%2fapps.ithaca.edu%2fimages%2fmicrosoft-365.png&ehk=jGixW%2fYQsHrdy%2bJPcmWIkF9IDRwUm0guW2FsUy111JM%3d&risl=&pid=ImgRaw&r=0)**Microsoft 365:** Proficient in developing applications and solutions on the Microsoft 365 platform, including SharePoint, Teams, Exchange, and Office 365 APIs.
+- ![Microsoft 365]()**Microsoft 365:** Proficient in developing applications and solutions on the Microsoft 365 platform, including SharePoint, Teams, Exchange, and Office 365 APIs.
  **Power Platform:** Extensive experience in building Power Apps, Power Automate (formerly Flow), and Power BI solutions to streamline processes and improve efficiency.
-- ![Project Management](https://example.com/cloud_technologies_icon.png)**Project Management:** Strong project management skills, including Agile methodologies (Scrum, Kanban), project planning, resource allocation, and stakeholder management.
-- ![Software Development:](https://example.com/cloud_technologies_icon.png)**Software Development:** Expertise in full-stack development using languages such as C#, .NET, JavaScript, TypeScript, and frameworks like ASP.NET MVC and React.
-- ![Cloud Technologies](https://example.com/cloud_technologies_icon.png) **Cloud Technologies:** Familiarity with cloud platforms, particularly Microsoft Azure, and its services, including Azure Functions, Logic Apps, and Azure DevOps.
-- ![Database Management](https://example.com/database_management_icon.png) **Database Management:** Proficient in SQL and experience with database design, optimization, and administration using platforms like Microsoft SQL Server and Azure SQL Database.
-- ![DevOps](https://example.com/devops_icon.png) **DevOps:** Skilled in implementing DevOps practices, CI/CD pipelines, source control (Git), and automated testing for efficient software development and delivery.
+- ![Project Management]()**Project Management:** Strong project management skills, including Agile methodologies (Scrum, Kanban), project planning, resource allocation, and stakeholder management.
+- ![Software Development:()**Software Development:** Expertise in full-stack development using languages such as C#, .NET, JavaScript, TypeScript, and frameworks like ASP.NET MVC and React.
+- ![Cloud Technologies]() **Cloud Technologies:** Familiarity with cloud platforms, particularly Microsoft Azure, and its services, including Azure Functions, Logic Apps, and Azure DevOps.
+- ![Database Management]() **Database Management:** Proficient in SQL and experience with database design, optimization, and administration using platforms like Microsoft SQL Server and Azure SQL Database.
+- ![DevOps]() **DevOps:** Skilled in implementing DevOps practices, CI/CD pipelines, source control (Git), and automated testing for efficient software development and delivery.

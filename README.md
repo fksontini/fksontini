@@ -30,5 +30,5 @@
 or : 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fksontini&" alt="fksontini" /></p>
 </br>
-<p>&nbsp; Scan Paypal : <img  src="https://github.com/fksontini/fksontini/assets/89549015/cd39a9f1-e4d2-4b7a-8138-da887f017a84" alt="fksontini" width="10%" height="10%" /></p>
+<p>&nbsp;<img  src="https://github.com/fksontini/fksontini/assets/89549015/cd39a9f1-e4d2-4b7a-8138-da887f017a84" alt="fksontini" width="10%" height="10%" /></p>
 

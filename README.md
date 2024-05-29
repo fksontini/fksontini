@@ -14,6 +14,6 @@ Hello! I'm Firas, a  Senior Software Engineer Specialist with expertise in Micro
 -  **Cloud Technologies:** Familiarity with cloud platforms, particularly Microsoft Azure, and its services, including Azure Functions, Logic Apps, and Azure DevOps.
 - **Database Management:** Proficient in SQL and experience with database design, optimization, and administration using platforms like Microsoft SQL Server and Azure SQL Database.
 -  **DevOps:** Skilled in implementing DevOps practices, CI/CD pipelines, source control (Git), and automated testing for efficient software development and delivery.
-![fksontini's Stats](https://github-readme-stats.vercel.app/api?username=fksontini&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![fksontini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fksontini&theme=vue-dark&hide_border=false)
-![fksontini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fksontini&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+-  ![fksontini's Stats](https://github-readme-stats.vercel.app/api?username=fksontini&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+-  ![fksontini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fksontini&theme=vue-dark&hide_border=false)
+-  ![fksontini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fksontini&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)

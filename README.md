@@ -24,7 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fksontini&show_icons=true&locale=en&layout=compact" alt="fksontini" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fksontini&show_icons=true&locale=en" alt="fksontini" /></p>
-or : 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fksontini&" alt="fksontini" /></p>
 </br>
 <h3 align="left">Support:</h3>

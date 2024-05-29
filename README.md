@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20168
-Fork on GitHub
-6111
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Firas KSONTINI</h1>
 <h3 align="center">Hello! I'm Firas, a Senior Software Engineer Specialist with expertise in Microsoft 365, Power Platform, and Project Management. I have a passion for creating innovative software solutions and leveraging the power of technology to drive business success. This Readme profile aims to provide you with a comprehensive overview of my skills, experience, and accomplishments.</h3>
 

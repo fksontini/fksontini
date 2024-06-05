@@ -27,7 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fksontini&" alt="fksontini" /></p>
 </br>
 <h3 align="left">Support:</h3>
-
-<p>&nbsp;<img  src="https://github.com/fksontini/fksontini/assets/89549015/c069e38a-916a-499f-a34e-f975ac8274ce)
-5/cd39a9f1-e4d2-4b7a-8138-da887f017a84" alt="fksontini" width="10%" height="10%" /></p>
-
+<img src="https://github.com/fksontini/fksontini/assets/89549015/fa676bc2-aa6c-4576-89a2-e0587d41fa23" width="100" height="100">

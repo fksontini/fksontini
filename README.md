@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fksontini&label=Profile%20views&color=0e75b6&style=flat" alt="fksontini" /> </p>
 
-- 🌱 I’m currently learning **IOS Dev**
+- 🌱 I’m currently learning **IOS Dev**, I'm a software Streamer in Twitch.
 
 - 📝 I regularly write articles on [https://firasksontini.fr](https://firasksontini.fr)
 

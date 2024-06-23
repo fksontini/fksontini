@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://firasksontini.fr](https://firasksontini.fr)
 
-- 💬 Ask me about **PowerPlatform / SharePoint Online / Teams Dev**
+- 💬 Ask me about **PowerPlatform / SharePoint Online / Teams Dev / Flutter / .NET CORE DEV **
 
 - 📫 How to reach me **firas@ksontini.fr**
 

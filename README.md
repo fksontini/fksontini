@@ -4,6 +4,7 @@
 
 <h3 align="center">Hello! I'm Firas, a 🇹🇳 Senior Software Engineer Specialist with expertise in Microsoft 365, Power Platform, and Project Management. I have a passion for creating innovative software solutions and leveraging the power of technology to drive business success. This Readme profile aims to provide you with a comprehensive overview of my skills, experience, and accomplishments.</h3>
 <a href="https://firasksontini.fr">Check my CV</a>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fksontini&label=Profile%20views&color=0e75b6&style=flat" alt="fksontini" /> </p>
 
 - 🌱 I’m currently learning **Flutter Dev**, I'm a software Streamer in Twitch.

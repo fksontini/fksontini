@@ -5,11 +5,11 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fksontini&label=Profile%20views&color=0e75b6&style=flat" alt="fksontini" /> </p>
 
-- 🌱 I’m currently learning **Flutter Dev**, I'm a software Streamer in Twitch.
+- 🌱 I’m currently learning **Flutter Dev** & **Go** .
 
 - 📝 I regularly write articles on [https://carthagesoft.com](https://carthagesoft.com)
 
-- 💬 Ask me about **PowerPlatform / SharePoint Online / Teams Dev / Flutter / .NET CORE DEV **
+- 💬 Ask me about **PowerPlatform / SharePoint Online / Go / Flutter / .NET CORE DEV **
 
 - 📫 How to reach me **firas@ksontini.fr**
 

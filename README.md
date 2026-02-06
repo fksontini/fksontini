@@ -1,6 +1,6 @@
 # 👋 Firas KSONTINI
 
-**Senior Software Engineer** • Microsoft 365 & Power Platform • Flutter & Go  
+**Senior Software Engineer** • Microsoft 365 & Power Platform • Flutter & Rust  
 [firasksontini.fr](https://firasksontini.fr) • [carthagesoft.com](https://carthagesoft.com)
 
 ---

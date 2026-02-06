@@ -9,12 +9,6 @@
 
 11+ years building tools with **Microsoft 365**, **SharePoint**, and **Power Platform**.  
 
-
----
-
-## Stack
-
-SharePoint • PowerPlatform
 ---
 
 ## Contact

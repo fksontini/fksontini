@@ -1,7 +1,7 @@
 # 👋 Firas K
 
 **Senior Software Engineer** • Microsoft 365 & Power Platform 
-[firasksontini.fr](https://firasksontini.fr) • [carthagesoft.com](https://carthagesoft.com)
+[firasksontini.fr](https://firasksontini.fr) 
 
 ---
 
